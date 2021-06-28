@@ -41,4 +41,4 @@ async def on_message(message):
             file=discord.File("/Volumes/VAVA/42tokyo/python-piscine/03/01/img.png", filename="/Volumes/VAVA/42tokyo/python-piscine/03/01/img.png")
             await message.channel.send(file=file)
 
-client.run("ODU2ODc5MTM4OTkyMjkxODUx.YNHc4g.X_0LAe7VQSDDz4DwEp87ayXy5PU")
+client.run("ODU2ODc5MTM4OTkyMjkxODUx.YNHc4g.wOwH9STxwedhirgmyACQGnJL74E")
